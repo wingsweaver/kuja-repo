@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.wingsweaver.kuja</groupId>
+  <artifactId>kuja-starter-common-messaging-jakarta</artifactId>
+  <versioning>
+    <versions>
+      <version>2023.05-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230630161528</lastUpdated>
+  </versioning>
+</metadata>
